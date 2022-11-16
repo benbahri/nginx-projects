@@ -1,4 +1,4 @@
-# nginx-handbook-projects
+# nginx-projects
 
 ![...](./nginx-handbook-github.png)
 
